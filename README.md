@@ -9,6 +9,16 @@ Full-stack Operations Management Platform built for **AIESEC in MUST Local Commi
 A production-ready internal platform serving as the LC’s **Single Source of Truth**, replacing manual tracking and scattered spreadsheets with a structured API-driven architecture.
 
 ---
+
+## How to Run Locally 🏃‍♂️
+
+1. Unzip the `Podio-FullStack.zip` file.
+2. Open your terminal inside the extracted project folder.
+3. Run the command (npm start) or (node server.js) > ( make sure you install node.js)
+4. Visit http://localhost:3000 in your web browser.
+
+---
+
 ## Login Credentials 👤
 
 Use any of the following accounts to access the platform:
@@ -58,15 +68,6 @@ Use any of the following accounts to access the platform:
 - Pipeline Stage Tracking
 - Analytics Dashboard
 - Mobile-Responsive Interface
-
----
-
-## How to Run Locally 🏃‍♂️
-
-1. Unzip the `Podio-FullStack.zip` file.
-2. Open your terminal inside the extracted project folder.
-3. Run the command (npm start) or (node server.js).
-4. Visit http://localhost:3000 in your web browser.
 
 ---
 
